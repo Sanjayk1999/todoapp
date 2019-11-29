@@ -64,3 +64,16 @@ body{
     border: none;
     margin-top: 4px;
 }
+
+@media all and (max-width:320px){
+    .item-container input{
+        width: 200px;
+    }
+    .item-container button{
+        width: 200px;
+    }
+    .list-item p{
+        width: 200px;
+        font-size: 11px;
+    }
+}
