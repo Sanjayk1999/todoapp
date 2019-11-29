@@ -65,7 +65,7 @@ body{
     margin-top: 4px;
 }
 
-@media only screen and (max-width:320px){
+@media screen and (max-width:375px){
     .item-container input{
         width: 200px;
     }
